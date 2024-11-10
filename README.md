@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Falak Khan</h1>
+<h1 align="center"  <img src="path/to/your/image.jpg" alt="Description of Image" width="500" height="300">>
+<h2 align="center">Hi 👋, I'm Falak Khan</h2>
 <h3 align="center">App Developer from India</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **MVVVM Architecture**
 
 - 📫 How to reach me **falakkhan3dec004@gmail.com**
 
