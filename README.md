@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Falak Khan</h2>
 <h3 align="center">App Developer from India</h3>
 
-- 🌱 I’m currently learning **MVVVM Architecture**
+- 🌱 I’m currently learning **MOBILE APP DEVELOPMENT: JETPACK COMPOSE**
 
 - 📫 How to reach me **falakkhan3dec004@gmail.com**
 
