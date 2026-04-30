@@ -1,11 +1,6 @@
 # Hi 👋, I'm Falak Khan
 ### 🚀 Android Developer | Kotlin | Jetpack Compose | DSA in Java
 ---
-## 💼 Open to Opportunities
-- 🎯 Actively seeking **Android Developer / Software Engineer Internships & Full-Time Roles**
-- 💡 Interested in building scalable, real-world mobile applications
-- 📩 Feel free to reach out via email or LinkedIn
----
 ## 💡 About Me
 - 🔭 Currently working on **PlayBox"
 - 🌱 Learning **Jetpack Compose and latest android dev technologies**
@@ -25,7 +20,7 @@
 - Android VOD app with **MVVM** architecture and multiple video categories
 - Built using **Kotlin, Jetpack Compose, ExoPlayer**
 - 🚀 Features: Offline caching with Room, seek & resume streaming, WorkManager
-- 🔗 [View Project](https://github.com/curiousfalak/playbox)
+- 🔗 [View Project](https://github.com/curiousfalak/Playbox)
 
 ### 🏋️ Aarogya – AI Powered Fitness App
 - Fitness app with **real-time pose detection** and instant exercise feedback
@@ -45,4 +40,8 @@
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
+
+## 💼 Open to Opportunities
+- 🎯 Actively seeking **Android Developer / Software Engineer Internships & Full-Time Roles**
+- 💡 Interested in building scalable, real-world mobile applications.
 ---
