@@ -20,7 +20,7 @@
 - Android VOD app with **MVVM** architecture and multiple video categories
 - Built using **Kotlin, Jetpack Compose, ExoPlayer**
 - 🚀 Features: Offline caching with Room, seek & resume streaming, WorkManager
-- 🔗 [View Project](https://github.com/curiousfalak/PlayBox)
+- 🔗 [View Project](https://github.com/curiousfalak/PlayBox2)
 
 ### 🏋️ Aarogya – AI Powered Fitness App
 - Fitness app with **real-time pose detection** and instant exercise feedback
