@@ -22,17 +22,17 @@
 - 🚀 Features: Offline caching with Room, seek & resume streaming, WorkManager
 - 🔗 [View Project](https://github.com/curiousfalak/PlayBox2)
 
-### 🏋️ Aarogya – AI Powered Fitness App
+### 🏋️ Aarogya – AI Powered Fitness App (Team 5)
 - Fitness app with **real-time pose detection** and instant exercise feedback
 - Built using **Kotlin, Jetpack Compose, MediaPipe**
 - 🤖 Features: On-device camera processing, Wear OS step tracking, local activity storage
 - 🔗 [View Project](https://github.com/curiousfalak/aarogya)
 
-### 🌊 Nature Lens – AI Powered Marine Monitoring App
+### 🌊 Nature Lens – AI Powered Marine Monitoring App (Team 4)
 - On-device **marine species identification** with no internet dependency
 - Built using **Kotlin, Jetpack Compose, TensorFlow Lite**
 - 🤖 Features: Optimized CNN model inference, GPS tagging, conservation reporting
-- 🔗 [View Project](https://github.com/curiousfalak/nature-lens)
+- 🔗 [View Project](https://github.com/curiousfalak/bitbox_bytecrafters)
 ---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousfalak&show_icons=true&theme=tokyonight)
