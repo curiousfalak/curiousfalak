@@ -7,10 +7,9 @@
 - 📩 Feel free to reach out via email or LinkedIn
 ---
 ## 💡 About Me
-- 🔭 Currently working on **Nature Lens** (AI Powered Marine Monitoring App)
-- 🌱 Learning **Jetpack Compose & Clean Architecture**
-- 💬 Ask me about **Android, Kotlin, MVVM, ExoPlayer, Firebase**
-- 🧠 Practicing **Data Structures & Algorithms in Java**
+- 🔭 Currently working on **PlayBox"
+- 🌱 Learning **Jetpack Compose and latest android dev technologies**
+- 💬 Ask me about **Kotlin Coroutines,Kotlin FLows etc**
 - 📫 Reach me at: **[falakkhandec03@gmail.com](mailto:falakkhandec03@gmail.com)**
 ---
 ## 🔗 Connect With Me
@@ -46,9 +45,4 @@
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
-- Problem Solving on LeetCode
----
-## ✨ Goals
-- Build impactful Android apps solving real-world problems
-- Crack a good **Android / SDE role**
 ---
