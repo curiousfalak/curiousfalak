@@ -1,14 +1,54 @@
-<h1 align="center"  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.google%2Fproducts%2Fandroid%2Fevolving-android-brand%2F&psig=AOvVaw0QP1N6WUHxYGJQfwoVL3wh&ust=1731351269556000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDk3p240okDFQAAAAAdAAAAABAQ" alt="Description of Image" width="500" height="300">
-<h2 align="center">Hi 👋, I'm Falak Khan</h2>
-<h3 align="center">App Developer from India</h3>
+# Hi 👋, I'm Falak Khan
+### 🚀 Android Developer | Kotlin | Jetpack Compose | DSA in Java
+---
+## 💼 Open to Opportunities
+- 🎯 Actively seeking **Android Developer / Software Engineer Internships & Full-Time Roles**
+- 💡 Interested in building scalable, real-world mobile applications
+- 📩 Feel free to reach out via email or LinkedIn
+---
+## 💡 About Me
+- 🔭 Currently working on **Nature Lens** (AI Powered Marine Monitoring App)
+- 🌱 Learning **Jetpack Compose & Clean Architecture**
+- 💬 Ask me about **Android, Kotlin, MVVM, ExoPlayer, Firebase**
+- 🧠 Practicing **Data Structures & Algorithms in Java**
+- 📫 Reach me at: **[falakkhandec03@gmail.com](mailto:falakkhandec03@gmail.com)**
+---
+## 🔗 Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/falak-khan-636188296/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/curiousfalak)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khanfalak3124/)
+---
+## 🛠️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,sql)
+---
+## 🚀 Featured Projects
+### 📺 PlayBox – Video On Demand App
+- Android VOD app with **MVVM** architecture and multiple video categories
+- Built using **Kotlin, Jetpack Compose, ExoPlayer**
+- 🚀 Features: Offline caching with Room, seek & resume streaming, WorkManager
+- 🔗 [View Project](https://github.com/curiousfalak/playbox)
 
-- 🌱 I’m currently learning **MOBILE APP DEVELOPMENT**
+### 🏋️ Aarogya – AI Powered Fitness App
+- Fitness app with **real-time pose detection** and instant exercise feedback
+- Built using **Kotlin, Jetpack Compose, MediaPipe**
+- 🤖 Features: On-device camera processing, Wear OS step tracking, local activity storage
+- 🔗 [View Project](https://github.com/curiousfalak/aarogya)
 
-- 📫 How to reach me **falakkhan3dec004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+### 🌊 Nature Lens – AI Powered Marine Monitoring App
+- On-device **marine species identification** with no internet dependency
+- Built using **Kotlin, Jetpack Compose, TensorFlow Lite**
+- 🤖 Features: Optimized CNN model inference, GPS tagging, conservation reporting
+- 🔗 [View Project](https://github.com/curiousfalak/nature-lens)
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousfalak&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=curiousfalak&theme=tokyonight)
+---
+## 🧩 Currently Practicing
+- DSA in Java
+- Problem Solving on LeetCode
+---
+## ✨ Goals
+- Build impactful Android apps solving real-world problems
+- Crack a good **Android / SDE role**
+---
