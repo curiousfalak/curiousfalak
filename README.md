@@ -36,7 +36,7 @@
 ---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousfalak&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=curiousfalak&theme=tokyonight)
+
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
