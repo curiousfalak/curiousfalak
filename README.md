@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khan_Falak312)
 ---
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,sql)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,idea,androidstudio,firebase,git,github,sql)
 ---
 ## 🚀 Featured Projects
 ### 📺 PlayBox – Video On Demand App
