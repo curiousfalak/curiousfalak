@@ -35,13 +35,11 @@
 - 🔗 [View Project](https://github.com/curiousfalak/bitbox_bytecrafters)
 ---
 ## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousfalak&theme=tokyonight)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curiousfalak&theme=tokyonight)
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curiousfalak&theme=tokyonight&utcOffset=5.5)
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
