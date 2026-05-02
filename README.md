@@ -35,11 +35,14 @@
 - 🔗 [View Project](https://github.com/curiousfalak/bitbox_bytecrafters)
 ---
 ## 📊 GitHub Stats
-## 📊 GitHub Analytics
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousfalak&theme=tokyonight)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/curiousfalak/curiousfalak/blob/output/github-contribution-grid-snake.svg)
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
