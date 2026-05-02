@@ -36,10 +36,9 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=curiousfalak&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=curiousfalak&layout=compact&theme=tokyonight)
-
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curiousfalak&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=curiousfalak&theme=tokyonight)
 ---
 ## 🧩 Currently Practicing
