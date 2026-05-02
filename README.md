@@ -36,13 +36,11 @@
 ---
 ## 📊 GitHub Stats
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousfalak&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=tokyonight)
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousfalak&theme=github_dark)
 
-## 🐍 Contribution Snake
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=github_dark)
 
-![Snake animation](https://github.com/curiousfalak/curiousfalak/blob/output/github-contribution-grid-snake.svg)
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
