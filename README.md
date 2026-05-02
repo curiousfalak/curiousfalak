@@ -36,12 +36,11 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousfalak&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousfalak&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousfalak&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousfalak&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=curiousfalak&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=curiousfalak&theme=tokyonight)
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
