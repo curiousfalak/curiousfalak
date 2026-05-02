@@ -36,10 +36,12 @@
 ---
 ## 📊 GitHub Stats
 
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=tokyonight)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curiousfalak&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=curiousfalak&theme=tokyonight)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curiousfalak&theme=tokyonight&utcOffset=5.5)
 ---
 ## 🧩 Currently Practicing
 - DSA in Java
