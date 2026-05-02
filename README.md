@@ -43,8 +43,7 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=github_dark)
 
 ---
-## 🧩 Currently Practicing
-- DSA in Java
+
 
 ## 💼 Open to Opportunities
 - 🎯 Actively seeking **Android Developer / Software Engineer Internships & Full-Time Roles**
