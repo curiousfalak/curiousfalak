@@ -2,7 +2,7 @@
 ### 🚀 Android Developer | Kotlin | Jetpack Compose | DSA in Java
 ---
 ## 💡 About Me
-- 🔭 Currently working on **[HospitalOpdQueueSys](https://github.com/curiousfalak/HospitalOpdQueueSys)**
+- 🔭 Currently working on **[VoiceToPost App](https://github.com/curiousfalak/VoiceToPostApp)**
 - 🌱 Learning **Jetpack Compose and latest android dev technologies**
 - 💬 Ask me about **Kotlin Coroutines,Kotlin FLows etc**
 - 📫 Reach me at: **[falakkhandec03@gmail.com](mailto:falakkhandec03@gmail.com)**
