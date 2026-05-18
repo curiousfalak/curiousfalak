@@ -37,14 +37,13 @@
 ---
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousfalak&theme=github_dark" />
+</p>
 
-![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousfalak&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=github_dark)
-
----
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curiousfalak&theme=github_dark" />
+</p>
 ## 💼 Open to Opportunities
 - 🎯 Actively seeking **Android Developer / Software Engineer Internships & Full-Time Roles**
 - 💡 Interested in building scalable, real-world mobile applications.
